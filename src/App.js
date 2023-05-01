@@ -1,4 +1,4 @@
-import './App.css';
+import "./App.css";
 import { PC } from "./ui-components";
 
 function App() {
@@ -8,5 +8,4 @@ function App() {
     </div>
   );
 }
-
 export default App;
